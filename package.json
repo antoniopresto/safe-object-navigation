@@ -1,0 +1,12 @@
+{
+  "name": "q_",
+  "version": "1.0.2",
+  "description": "Safe navigation into objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["elvis operator", "optional chainig", "safe navigation"],
+  "author": "@antoniopresto",
+  "license": "ISC"
+}
