@@ -1,3 +1,5 @@
+# Safe navigation into objects
+
 ```js
 const q = require('q_');
 
