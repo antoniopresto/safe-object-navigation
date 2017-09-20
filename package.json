@@ -1,8 +1,9 @@
 {
   "name": "q_",
-  "version": "1.0.3",
-  "description": "Safe navigation into objects",
+  "version": "1.0.4",
+  "description": "Tiny helper to navigation into objects",
   "main": "index.js",
+  "repository": "https://github.com/antoniopresto/safe-object-navigation.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

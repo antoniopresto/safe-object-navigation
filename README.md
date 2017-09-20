@@ -1,6 +1,9 @@
 # Safe navigation into objects
 
+npm install --save q_
+
 ```js
+
 const q = require('q_');
 
 const object = {
@@ -15,6 +18,6 @@ const object = {
 };
 ```
 
- - ```js q(object, 'a.b.c.d'); // => 1 ```
- - ```js q(object, 'a.b.c.array[1]'); // => bar```
- - ```js q(object, 'foo'); // => undefined```
+ - ``` q(object, 'a.b.c.d'); // => 1 ```
+ - ``` q(object, 'a.b.c.array[1]'); // => bar```
+ - ``` q(object, 'foo'); // => undefined```
