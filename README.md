@@ -13,6 +13,8 @@ const object = {
     },
   },
 };
+```
 
-q(object, 'a.b.c.d'); // => 1
-q(object, 'a.b.c.array[1]'); // => bar
+ - ```js q(object, 'a.b.c.d'); // => 1 ```
+ - ```js q(object, 'a.b.c.array[1]'); // => bar```
+ - ```js q(object, 'foo'); // => undefined```
