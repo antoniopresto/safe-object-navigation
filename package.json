@@ -1,6 +1,6 @@
 {
   "name": "q_",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Tiny helper to navigation into objects",
   "main": "index.js",
   "repository": "https://github.com/antoniopresto/safe-object-navigation.git",
